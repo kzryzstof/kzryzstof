@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Christophe
-
-**Senior Software Developer**
-
----
-
 ## 🚀 About Me
 
 I'm a software engineer with over 20 years of experience building robust, cloud-native systems using .NET and Azure. I’ve had the privilege of scaling energy platforms for hundreds of thousands of devices, architecting distributed solutions, and leading development teams through transformative journeys.
