@@ -16,7 +16,7 @@ My passions? Clean architecture, effective scaling, and always learning somethin
 
 ## 🛠️ Tech Toolbox
 
-- **Languages**: C#, Typescript, Swift, C, Bash, Javascript (if I have to 😁)
+- **Languages**: C#, Swift, Typescript, C, Bash... even Javascript, if I have to 😁
 - **Cloud**: Microsoft Azure, Azure Functions, AKS, IoT Hub, Data Explorer 
 - **Frameworks**: .NET Core, ASP.NET, Blazor, Microsoft Orleans  
 - **DevOps**: Terraform, Azure DevOps, GitHub Actions  
