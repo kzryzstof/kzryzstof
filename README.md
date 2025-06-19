@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christophe
 
-**Senior Software Developer | Cloud Architect | Lifelong Learner**
+**Senior Software Developer**
 
 ---
 
