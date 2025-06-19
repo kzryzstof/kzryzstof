@@ -35,9 +35,9 @@ My passions? Clean architecture, effective scaling, and always learning somethin
 
 ## 📚 Featured
 
-- 🎓 Master’s in Software Engineering — ÉTS Montréal  
-- 📝 [Published in *Software Measurement News*](https://publications.cirrano.qc.ca) on software effort estimation  
-- 🧠 Issued patents in computer vision and virtual parking enforcement  
+- 🎓 Master’s in Software Engineering — ÉTS Montréal
+- 📝 [Published paper](https://www.isbsg.org/wp-content/uploads/2021/08/Comyene-Abran-Estimation-model.pdf) on software effort estimation  
+- 🧠 Issued patents in [computer vision](https://patents.google.com/patent/US11715311B1) and [virtual parking enforcement](https://patents.google.com/patent/US20210035439A1)
 - 💬 Fluent in French and English
 
 ---
