@@ -41,7 +41,3 @@ My passions? Clean architecture, effective scaling, and always learning somethin
 - 💼 [LinkedIn](https://www.linkedin.com/in/christophe-commeyne/)  
 - 📫 Reach out on GitHub Issues or PRs  
 - 🗺️ Based in Québec, Canada
-
----
-
-_“Coding is thinking. I just happen to enjoy the debugging part.” — Me, probably after midnight._
