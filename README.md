@@ -1,8 +1,8 @@
 ## 🚀 About Me
 
-I'm a software engineer with over 20 years of experience building robust, cloud-native systems using .NET and Azure. I’ve had the privilege of scaling energy platforms for hundreds of thousands of devices, architecting distributed solutions, and leading development teams through transformative journeys.
+I'm a software engineer with over 20 years of experience building robust, cloud-native systems using .NET and Azure. I’ve had the privilege of scaling energy platforms for hundreds of thousands of devices, architecting distributed solutions, and leading development teams.
 
-And when I’m not solving complex problems at work, I’m deep in side projects—experimenting with game emulator integrations, building iOS apps, or authoring developer tools (like my [Mediator plugin for Rider/ReSharper](https://github.com/kzryzstof/mediatr-plugin)).
+And when I’m not solving complex problems at work, I’m deep in side projects—experimenting with game emulator integrations, building iOS apps, or authoring developer tools (like my [Mediator plugin for Rider/ReSharper](https://github.com/kzryzstof/mediatr-plugin))... and AI as everyone else.
 
 My passions? Clean architecture, effective scaling, and always learning something new.
 
