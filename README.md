@@ -23,8 +23,7 @@ My passions? Clean architecture, effective scaling, and always learning somethin
 | Project | Description |
 |--------|-------------|
 | [`RetroArch Playlab`](https://github.com/kzryzstof/RetroArch/tree/playlab) | Retro game emulator integrated with Azure backend and Blazor front-end visualization |
-| [`Mediator Rider Plugin`](https://github.com/kzryzstof/mediatr-plugin) | JetBrains plugin for easier navigation from `IRequest` to `IRequestHandler` |
-
+| [`Mediator Rider Plugin`](https://github.com/Octelys/mediator-plugin) | JetBrains plugin for easier navigation from `IRequest` to `IRequestHandler` |
 ---
 
 ## 📚 Featured
